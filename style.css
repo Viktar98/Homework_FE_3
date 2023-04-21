@@ -23,6 +23,10 @@
     background-color: white;
 }
 
+#close:hover {
+    cursor: pointer;
+}
+
 .las {
     width: 14px;
     height: 14px;
